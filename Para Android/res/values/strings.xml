@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Domótica</string>
+    <string name="title_activity_main">Domótica</string>
+    <string name="btn_ON">ON</string>
+    <string name="btn_OFF">OFF</string>
+
+</resources>
